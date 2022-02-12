@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Azure Pipelines
+  name: HostedVS2017
   vmImage: 'ubuntu-20.04'
   demands:
   - npm
